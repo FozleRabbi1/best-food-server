@@ -37,5 +37,5 @@ app.get("/allFoods/:name", (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening on porttt ==  ${port}`)
+  console.log(`Example app listening on port  ${port}`)
 })  
