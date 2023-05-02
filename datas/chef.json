@@ -1,0 +1,44 @@
+[
+    {
+        "ChefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
+        "ChefName": "John Smith",
+        "YearsOfExperience": 10,
+        "NumbersOfRecipes": 50,
+        "Likes": 1000
+    },
+    {
+        "ChefPicture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+        "ChefName": "Jane Doe",
+        "YearsOfExperience": 5,
+        "NumbersOfRecipes": 30,
+        "Likes": 500
+    },
+    {
+        "ChefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+        "ChefName": "Bob Johnson",
+        "YearsOfExperience": 15,
+        "NumbersOfRecipes": 75,
+        "Likes": 2000
+    },
+    {
+        "ChefPicture": "https://panlasangpinoy.com/wp-content/uploads/2016/05/what-is-a-chef-de-cuisiine.jpg",
+        "ChefName": "Emily Kim",
+        "YearsOfExperience": 3,
+        "NumbersOfRecipes": 20,
+        "Likes": 250
+    },
+    {
+        "ChefPicture": "https://akns-images.eonline.com/eol_images/Entire_Site/202329/rs_1200x1200-230309095356-topchef.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "ChefName": "Alex Rodriguez",
+        "YearsOfExperience": 8,
+        "NumbersOfRecipes": 40,
+        "Likes": 800
+    },
+    {
+        "ChefPicture": "https://akns-images.eonline.com/eol_images/Entire_Site/2023025/rs_634x1024-230125093313-634-Ali_Al_Ghzawi-TOP_CHEF-Season-20-Bravo-gj.jpg?fit=around%7C634:1024&output-quality=90&crop=634:1024;center,top",
+        "ChefName": "David Lee",
+        "YearsOfExperience": 12,
+        "NumbersOfRecipes": 60,
+        "Likes": 800
+    }
+]
