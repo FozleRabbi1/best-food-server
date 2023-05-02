@@ -264,8 +264,8 @@
         }
       },
       {
-        "name": "Alex Rodriguez's Grilled Steak",
-        "description": "This recipe for grilled steak is one of Alex Rodriguez's favorites. It's a classic dish that's perfect for a summer barbecue or a special occasion. The steak is marinated in a simple blend of olive oil, garlic, and herbs, then grilled to perfection.",
+        "name": "Alex Rodriguez",
+        "description": "This recipe for grilled steak is one of Alex Rodriguez's a classic dish that's perfect for a summer barbecue or a special occasion. The steak is marinated in a simple blend of olive oil, garlic, and herbs, then grilled to perfection.",
         "recipe": {
           "name": "Grilled Steak",
           "ingredients": [
@@ -281,7 +281,7 @@
         }
       },
       {
-        "name": "Alex Rodriguez's Shrimp Scampi",
+        "name": "Alex Rodriguez",
         "description": "This recipe for shrimp scampi is a quick and easy dish that Alex Rodriguez loves to make for his family. It's a classic Italian recipe that's full of flavor and can be made in just 20 minutes. The shrimp are cooked in a garlic and butter sauce and served over pasta.",
         "recipe": {
           "name": "Shrimp Scampi",
@@ -298,7 +298,7 @@
         }
       },
       {
-        "name": "Alex Rodriguez's Lemon Garlic Chicken",
+        "name": "Alex Rodriguez",
         "description": "This recipe for lemon garlic chicken is a healthy and flavorful dish that Alex Rodriguez loves to make for his family. The chicken is marinated in a lemon and garlic mixture, then baked to perfection. It's a simple and delicious meal that's perfect for a weeknight dinner.",
         "recipe": {
           "name": "Lemon Garlic Chicken",

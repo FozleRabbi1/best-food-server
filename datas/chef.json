@@ -4,41 +4,47 @@
         "ChefName": "John Smith",
         "YearsOfExperience": 10,
         "NumbersOfRecipes": 50,
-        "Likes": 1000
+        "Likes": 1000,
+        "description": "John Smith is a home cook who loves to experiment with bold flavors and unique ingredients. His signature dish is a spicy Thai basil stir-fry with fresh vegetables and fragrant herbs."
     },
     {
         "ChefPicture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
         "ChefName": "Jane Doe",
         "YearsOfExperience": 5,
         "NumbersOfRecipes": 30,
-        "Likes": 500
+        "Likes": 500,
+        "description": "Jane Doe is a passionate home cook who loves to experiment with new flavors and ingredients. She enjoys creating healthy and satisfying meals that are both delicious and easy to prepare. Her favorite recipe is a spicy shrimp stir-fry with fresh vegetables and aromatic spices."
     },
     {
         "ChefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
         "ChefName": "Bob Johnson",
         "YearsOfExperience": 15,
         "NumbersOfRecipes": 75,
-        "Likes": 2000
+        "Likes": 2000,
+        "description": "Bob Johnson is a self-taught home cook who loves to create simple and delicious meals for his family and friends. He believes that anyone can learn to cook with a bit of practice and patience. His favorite dish is a classic beef stew with tender chunks of beef and hearty vegetables."
     },
     {
         "ChefPicture": "https://panlasangpinoy.com/wp-content/uploads/2016/05/what-is-a-chef-de-cuisiine.jpg",
         "ChefName": "Emily Kim",
         "YearsOfExperience": 3,
         "NumbersOfRecipes": 20,
-        "Likes": 250
+        "Likes": 250,
+        "description": "Emily Kim is a Korean-American food blogger who loves to share her passion for Korean cuisine with the world. She grew up watching her mother and grandmother cook traditional Korean dishes, and she has continued the tradition in her own kitchen. Her favorite dish is bibimbap, a colorful and healthy rice bowl topped with vegetables, meat, and a fried egg."
     },
     {
         "ChefPicture": "https://akns-images.eonline.com/eol_images/Entire_Site/202329/rs_1200x1200-230309095356-topchef.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
         "ChefName": "Alex Rodriguez",
         "YearsOfExperience": 8,
         "NumbersOfRecipes": 40,
-        "Likes": 800
+        "Likes": 800,
+        "description": "This recipe for grilled steak is one of Alex Rodriguez's favorites. It's a classic dish that's perfect for a summer barbecue or a special occasion. The steak is marinated in a simple blend of olive oil, garlic, and herbs, then grilled to perfection."
     },
     {
         "ChefPicture": "https://akns-images.eonline.com/eol_images/Entire_Site/2023025/rs_634x1024-230125093313-634-Ali_Al_Ghzawi-TOP_CHEF-Season-20-Bravo-gj.jpg?fit=around%7C634:1024&output-quality=90&crop=634:1024;center,top",
         "ChefName": "David Lee",
         "YearsOfExperience": 12,
         "NumbersOfRecipes": 60,
-        "Likes": 800
+        "Likes": 800,
+        "description": "David Lee is a health-conscious cook who loves to create delicious and nutritious meals for his family. His signature dish is a colorful and flavorful quinoa salad with roasted vegetables and a tangy lemon vinaigrette."
     }
 ]
