@@ -21,7 +21,6 @@ app.get("/chef/:name", (req, res) => {
   const name = req.params.name;
   const modifyName = name.replace(/\s+/g, '');
   const getData = chefData.find(data => data.ChefName.replace(/\s+/g, '') == modifyName)
-  // console.log(modifyName)
   res.send(getData)
 })
 
@@ -38,5 +37,5 @@ app.get("/allFoods/:name", (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
-})
+  console.log(`Example app listening on porttt ==  ${port}`)
+})  
